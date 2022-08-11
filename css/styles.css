@@ -1,7 +1,12 @@
-body{
-    color: deeppink;
-    text-aling: center;
-    font-family:"Arial";
-    display:flex;
-    flex_direction:row;
+body {
+  margin: 10px;
+  color: deeppink;
+  text-aling: center;
+  font-family: "Arial";
+}
+
+
+#container{
+    width:70%;
+    text-aling: rigth;
 }
