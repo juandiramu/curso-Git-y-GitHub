@@ -1,14 +1,19 @@
 body {
   margin: 10px;
-  color: deeppink;
   text-aling: center;
   font-family: "Arial";
+  background: #ffaaaa;
+  color: white;
 }
 
-
-#container{
-    width:70%;
-    text-aling: rigth;
+#container {
+  background: #d46a6a;
+}
+#cabecera {
+    font-size:30px;
+    text:center;
+    display:flex;
+    justify-content:center;
 }
 p{
     font-family:sans-serif;
