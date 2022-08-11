@@ -1,0 +1,7 @@
+body{
+    color: deeppink;
+    text-aling: center;
+    font-family:"Arial";
+    display:flex;
+    flex_direction:row;
+}
